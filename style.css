@@ -1,0 +1,122 @@
+* {
+	margin: 0;
+	padding: 0;
+	box-sizing:border-box;
+}
+body {
+	background-color: #F8F8FF none;
+}
+.icons_menu {
+	display: flex;
+	justify-content: space-around;
+	border-bottom: solid 1px #D3D3D3;
+	align-items: center;
+}
+.icons_logo {
+	display: flex;
+	justify-content: space-around;
+	margin-right: -250px;
+}
+.logo { 
+	width: 5vh;
+	height: 5vh;
+	margin: 5px;
+
+}
+.instagram {
+	width: 17vh;
+	height: 6vh;
+
+}
+.icons {
+
+	display: flex;
+	flex-direction: row;
+	justify-content: space-around;
+	width: 4vh;
+	height:4vh;
+	margin: 12px 12px;
+	margin-top: 5px;
+
+
+}
+.buscar {
+	width: 30vh;
+	height: 3vh;
+	margin: 15px;
+	margin-right: -250px;
+}
+.perfil {
+	border-radius: 50%;
+	width: 150px;
+	height: 150px;
+	margin: 270px;
+	margin-top: -60px;
+	position: relative;
+	top: 35px;
+	left: 45px;
+}
+h1 {
+	text-align: center;
+	margin-top: 125px;
+	margin-right: 10px;
+	font-family: times new roman;
+	font-size: 30px;
+	font-weight: normal;
+}
+.button {
+	position: relative;
+	top: -374px;
+	left: 55px;
+}
+.engrenagem {
+	position: relative;
+	top: -362px;
+	left: 65px;
+	width: 5vh;
+	height: 5vh;
+}
+.geral {
+	justify-content:center;
+	position: relative;
+	top: -60px;
+	left: -50px;
+}
+.foto {
+	max-width: 320px;
+	max-height: 320px;
+	width: auto;
+	height: auto;
+	margin: 14px 14px 14px;
+	margin-top: -400px;
+}
+.foto2 {
+	display: flex;
+	flex-direction: row;
+	position: relative;
+	top: 440px;
+	left: 169px;
+}
+.foto1 {
+	display: flex;
+	flex-direction: row;
+	position: relative;
+	top: 100px;
+	left: 170px;
+}
+
+.seguidores {
+	display: flex;
+	flex-direction: row;
+	position: relative;
+	top: -335px;
+	left:550px;
+}
+.frase {
+	position: relative;
+	top: -310px;
+	left: 550px;
+}
+.meunome {
+
+}
